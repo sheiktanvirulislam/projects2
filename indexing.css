@@ -1,0 +1,129 @@
+.halfview{
+  width: 40%;
+  font-size: 23px;
+  font-family: 'Heebo', sans-serif;
+  margin: 2%;
+  padding: 1%; 
+  float: left;
+  text-align: justify;
+}
+h1{
+  font-size: 27px;     
+  font-family: 'Heebo', sans-serif;
+  text-align: center;
+  padding: 2%;
+  margin: 2%;
+
+}
+.specialheading{
+   
+   font-size: 27px;
+   color:darkcyan;
+   text-align: center; 
+
+
+
+}
+.halfview img{
+    width: 100%;
+    
+
+
+
+}
+ div img{ 
+    
+  width: 40%;
+  font-size: 25px;
+  font-family: 'Heebo', sans-serif;
+  margin: 2%;
+  padding: 2%; 
+  float:left;
+  text-align: justify;
+}
+
+
+
+.specialsection{
+    
+    width: 100%;
+    background-image: url("images/top-banner.png");
+    
+    background-repeat: no-repeat;
+
+}
+
+
+
+
+
+
+
+
+
+.halfview2{
+    width: 40%;
+    float: right;
+    
+    margin: 3%;
+    padding: 2%; 
+    
+    
+    
+}
+
+.halfview2 img{
+   width: 100%;
+
+
+
+}
+
+
+
+.contact{
+  width: 100%;
+  
+}
+
+
+h5{
+  font-size: 17px;
+  
+
+
+}
+p{
+  text-align: justify;
+}
+.singleclass{
+  box-shadow: 10px 10px  40px gray;  
+  border-radius: 5px;
+  height: 370px ;
+  margin-top:  10px; 
+
+}
+#idm{
+     border-left: 7px solid; 
+     border-image: linear-gradient(lightsalmon ,tomato);  
+     border-image-slice: 1;
+}
+#idc{
+
+
+  border-left: 7px solid; 
+  border-image: linear-gradient(blue,cyan);  
+  border-image-slice: 1;
+}
+
+#footer{
+
+  position:fixed;
+  padding: 1px;
+  bottom: 0%;;
+  width:100%;
+  /* Height of the footer*/ 
+  text-align: center;
+  
+
+}
